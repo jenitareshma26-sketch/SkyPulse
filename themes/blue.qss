@@ -1,0 +1,3 @@
+/* Blue is an accessible dark-blue accent variant. */
+@import url("dark.qss");
+
